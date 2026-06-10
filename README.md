@@ -115,15 +115,3 @@ A detailed design report is included in the repository:
 
 - [`ALU_16_bit.pdf`](./ALU_16_bit.pdf) — Covers the design specification, block diagram, operation table, and simulation results.
 
----
-
-## 👤 Author
-
-**yosri227**
-- GitHub: [@yosri227](https://github.com/yosri227)
-
----
-
-## 📜 License
-
-This project is open-source. No explicit license is specified — please contact the author before reusing in commercial or academic work.
